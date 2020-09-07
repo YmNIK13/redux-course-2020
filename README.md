@@ -1,6 +1,6 @@
 <img class="navbar__logo" height="150px" src="https://redux.js.org//img/redux.svg" alt="Redux Logo">
 
-#[ReduxJs](https://redux.js.org/)
+# [Redux.js.org](https://redux.js.org/)
 
 ### Основное видео
 [![Основное видео](http://img.youtube.com/vi/YdYyYMFPa44/0.jpg)](http://www.youtube.com/watch?v=YdYyYMFPa44 "Основное видео")
