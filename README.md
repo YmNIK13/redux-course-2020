@@ -3,10 +3,20 @@
 #[ReduxJs](https://redux.js.org/)
 
 ### Основное видео
-https://www.youtube.com/watch?v=YdYyYMFPa44&t=1131s
+https://www.youtube.com/watch?v=YdYyYMFPa44
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=YdYyYMFPa44" frameborder="0" 
+    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture">
+</iframe>
+
+
 
 ### Redux + React
 https://www.youtube.com/watch?v=G3GGXIhggGs
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/G3GGXIhggGs" frameborder="0" 
+    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture">
+</iframe>
 
 ---
 
