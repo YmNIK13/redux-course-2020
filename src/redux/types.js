@@ -1,3 +1,5 @@
 export const INCREMENT = 'INCREMENT'
 export const DECREMENT = 'DECREMENT'
-export const ASYNC_INCREMENT = 'ASYNC_INCREMENT'
+export const CHANGE_THEME = 'CHANGE_THEME'
+export const BLOCK_BTN = 'BLOCK_BTN'
+export const UNBLOCK_BTN = 'UNBLOCK_BTN'
